@@ -1,0 +1,67 @@
+/*
+ Theme Name:   Konstruk Child
+ Theme URI:    https://rstheme.com/products/wordpress/konstruk
+ Description:  konstruk Child
+ Author:       RSTheme
+ Author URI:   http://rstheme.com
+ Template:     konstruk
+ Version:      1.0.1
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+ */
+
+.sticky-wrapper{
+	height: 0px !important;
+}
+.btn_quote a, .rs_button{
+	background: #008cb9 !important;
+}
+.services-text .icon_top{
+	background: #008cb9 !important;
+}
+.services-titles .title a:hover, .services-titles .title a{
+	color: #008cb9 !important;
+}
+.ui-accordion-header .fa-plus::before{
+	color: #008cb9 !important;
+}
+.ui-accordion-header .fa-minus{
+	color: #000 !important;
+}
+.normarl-text-area .icon-image img, .normarl-text-area .icon-image{
+	background: #008cb9 !important;
+}
+.elementor-13950 .elementor-element-5852763 .elementor-element-populated{
+	background-image: url('http://localhost/doorsconstruction/wp-content/uploads/2023/03/pexels-nur-yilmaz-13995427-scaled.jpg') !important;
+}
+.services-btn:hover, .services-btn{
+	background-color: #008cb9 !important;
+}
+.filter_gallery .portfolio-inner{
+	display: none !important;
+}
+.filter_gallery .p-icon{
+	display: none !important;
+}
+.slick-slider .slick-prev.slick-arrow, .slick-slider .slick-next.slick-arrow{
+	background: #008cb9 !important;
+}
+#work-with-us .sub-text{
+	color: #008cb9 !important;
+} 
+.rs-footer .fa-ul li i, .rs-footer .fa-ul a:hover{
+	color: #008cb9 !important;
+}
+.rs-footer .footer-2 .widget_nav_menu ul li a:before, .rs-footer .footer-2 .widget_nav_menu ul li a:hover{
+	color: #008cb9 !important;
+}
+.nav.navbar.copyright-menu-sec #footer-menu{
+	display: none !important;
+}
+#mc4wp-form-1 input[type="submit"]{
+	background: #008CB9 !important;
+}
+#wpcf7-f3528-p13951-o1 .wpcf7-submit{
+	background: #008CB9 !important;
+}
